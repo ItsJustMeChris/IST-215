@@ -1,0 +1,7 @@
+C:\Users\IT-Lab\source\repos\Person Linq List\Person Linq List\bin\Debug\Person Linq List.exe.config
+C:\Users\IT-Lab\source\repos\Person Linq List\Person Linq List\bin\Debug\Person Linq List.exe
+C:\Users\IT-Lab\source\repos\Person Linq List\Person Linq List\bin\Debug\Person Linq List.pdb
+C:\Users\IT-Lab\source\repos\Person Linq List\Person Linq List\obj\Debug\Person Linq List.csprojAssemblyReference.cache
+C:\Users\IT-Lab\source\repos\Person Linq List\Person Linq List\obj\Debug\Person Linq List.csproj.CoreCompileInputs.cache
+C:\Users\IT-Lab\source\repos\Person Linq List\Person Linq List\obj\Debug\Person Linq List.exe
+C:\Users\IT-Lab\source\repos\Person Linq List\Person Linq List\obj\Debug\Person Linq List.pdb
